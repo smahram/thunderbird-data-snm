@@ -1,11 +1,11 @@
 {
-    "firstName": "Bruce",
-    "lastName": "Wayne",
-    "preferredName": "Batman",
-    "email": "darknight@lewisu.edu",
-    "phoneNumber": "800-bat-mann",
-    "city": "Gotham",
-    "state": "New Jersey",
-    "zip": "07101",
-    "favoriteHobby": "Flying with style"
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "preferredName": "Spider-Man",
+    "email": "spiderMan@lewisu.edu",
+    "phoneNumber": "800-spi-mann",
+    "city": "Queens",
+    "state": "New York",
+    "zip": "11101",
+    "favoriteHobby": "Being Spider-Man"
 }    
